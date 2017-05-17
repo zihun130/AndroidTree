@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SvnProject.iml" filepath="$PROJECT_DIR$/SvnProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidEather.iml" filepath="$PROJECT_DIR$/AndroidEather.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
